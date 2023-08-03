@@ -1,0 +1,5 @@
+[ 2023-08-03 20:07:40,695 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-03 20:07:40,696 ] 187 werkzeug - INFO -  * Debugger PIN: 221-693-205
+[ 2023-08-03 20:07:52,760 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Aug/2023 20:07:52] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-03 20:08:15,738 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Aug/2023 20:08:15] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-03 20:08:54,304 ] 187 werkzeug - INFO -  * Detected change in 'E:\\Performance_of_student\\app.py', reloading
