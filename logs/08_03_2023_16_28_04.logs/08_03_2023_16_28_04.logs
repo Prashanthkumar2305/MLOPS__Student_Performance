@@ -1,0 +1,11 @@
+[ 2023-08-03 16:28:05,316 ] 25 root - INFO - read the dataset of std.csv
+[ 2023-08-03 16:28:05,328 ] 34 root - INFO - initiated train data and test data
+[ 2023-08-03 16:28:05,339 ] 42 root - INFO - It's done about the train and test datasets into csv format from raw_data
+[ 2023-08-03 16:28:05,367 ] 80 root - INFO - Read train and test data completed
+[ 2023-08-03 16:28:05,367 ] 82 root - INFO - Obtaining preprocessing object
+[ 2023-08-03 16:28:05,367 ] 56 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2023-08-03 16:28:05,367 ] 57 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[ 2023-08-03 16:28:05,367 ] 95 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2023-08-03 16:28:05,402 ] 107 root - INFO - Saved preprocessing object.
+[ 2023-08-03 16:28:05,424 ] 34 root - INFO - Split training and test input data
+[ 2023-08-03 16:30:22,712 ] 103 root - INFO - Best found model on both training and testing dataset
